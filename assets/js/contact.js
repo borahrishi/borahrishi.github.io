@@ -29,6 +29,7 @@ document.getElementById("contactForm").addEventListener("submit", async (event) 
         });
 
         if (!response.ok) {
+            const errorDetails = await response.text();
             throw new Error("Network response was not ok");
         }
 
