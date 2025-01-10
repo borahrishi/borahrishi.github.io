@@ -1,6 +1,6 @@
 // Obfuscated Web App URL
-//const scriptURL = atob("aHR0cHM6Ly9zY3JpcHQuZ29vZ2xlLmNvbS9tYWNyb3Mvcy9BS2Z5Y2J5eWd2Tzd4MFNMWGRqWjNwLUNnNWRYSkxTMko0RDZITVZON0F5TEJCZDFMUldLX1pxWlJvSUpkQkx6VVJCMzV6N3FYZy9leGVj");
-const scriptURL = "https://script.google.com/macros/s/AKfycbyygvO7x0SLXdjZ3p-Cg5dXJLS2J4D6HMVN7AyLBBd1LRWK_ZqZRoIJdBLzURB35z7qXg/exec";
+const scriptURL = atob("aHR0cHM6Ly9zY3JpcHQuZ29vZ2xlLmNvbS9tYWNyb3Mvcy9BS2Z5Y2J5eWd2Tzd4MFNMWGRqWjNwLUNnNWRYSkxTMko0RDZITVZON0F5TEJCZDFMUldLX1pxWlJvSUpkQkx6VVJCMzV6N3FYZy9leGVj");
+//const scriptURL = "https://script.google.com/macros/s/AKfycbyygvO7x0SLXdjZ3p-Cg5dXJLS2J4D6HMVN7AyLBBd1LRWK_ZqZRoIJdBLzURB35z7qXg/exec";
 
 // Form submission handler
 document.getElementById("contactForm").addEventListener("submit", async (event) => {
